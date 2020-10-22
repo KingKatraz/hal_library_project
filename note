@@ -1,0 +1,14 @@
+build CLI 
+Welcome User to my personal library
+prompt user to select from a list of my favorite authors OR exit CLI
+If they select List of Authors, Print it 
+IF they select Exit, Tell them Goodbye and exit the program
+If user select an author, list my favorite books from selected author
+
+Classes 
+1) CLI - controller / communicates to User 
+2) API - Bring in external data, Consume API, Instantiate Objects
+3) AUTHOR - Object creation & storage 
+4) BOOK - Object creation & storage 
+
+
